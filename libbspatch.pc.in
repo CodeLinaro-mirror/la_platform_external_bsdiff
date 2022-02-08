@@ -1,0 +1,12 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+
+Name: libbspatch
+Description: bspatch android library
+Version: @VERSION@
+Libs: -L${libdir} -lbspatch
+Cflags: -I${includedir}
+
