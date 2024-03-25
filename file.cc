@@ -20,6 +20,7 @@
 #include <utils/Compat.h>
 #endif
 
+#include <limits>
 #include <algorithm>
 
 namespace bsdiff {
