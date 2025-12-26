@@ -52,7 +52,7 @@ cc_library_static {
         "//bootable/deprecated-ota:__subpackages__",
         "//external/puffin:__subpackages__",
         "//system/update_engine:__subpackages__",
-        "//system/core/fs_mgr/libsnapshot:__subpackages__",
+        "//system/fs/fs_mgr/libsnapshot:__subpackages__",
     ],
 
     srcs: [
