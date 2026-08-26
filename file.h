@@ -6,6 +6,7 @@
 #define _BSDIFF_FILE_H_
 
 #include <memory>
+#include <stdint.h>
 
 #include "bsdiff/file_interface.h"
 

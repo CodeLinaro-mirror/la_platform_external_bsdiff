@@ -7,6 +7,7 @@
 
 #include <memory>
 #include <vector>
+#include <stdint.h>
 
 #include "bsdiff/file_interface.h"
 
