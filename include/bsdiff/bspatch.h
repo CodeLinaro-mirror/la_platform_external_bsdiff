@@ -8,6 +8,7 @@
 #include <functional>
 #include <memory>
 #include <vector>
+#include <stdint.h>
 
 #include "bsdiff/extents_file.h"
 
